@@ -8,8 +8,8 @@ Deterministic, no network, no reads outside the repo. Writes the line to
 import os
 
 LINE = (
-    "We replaced the meeting with an email, the email with a Slack message, "
-    "and the Slack message with a meeting."
+    "The meeting could have been an email, the email could have been a "
+    "Slack message, and the Slack message could have been silence."
 )
 
 
